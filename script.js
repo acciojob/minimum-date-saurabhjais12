@@ -1,5 +1,5 @@
 function minDate(dates) {
-  //write you code here
+return [...dates].sort()[0];
 }
 
 // Do not change the code
